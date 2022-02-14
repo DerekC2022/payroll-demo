@@ -20,7 +20,7 @@ public class Employee {
         this.role = role;
     }
 
-    public long getId() {
+    public Long getId() {
         return this.id;
     }
 
